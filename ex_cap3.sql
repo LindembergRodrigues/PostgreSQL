@@ -6,6 +6,9 @@ create table mesas(
 	data_atualizacao timestamp
 );
 
+
+
+
 create table funcionarios(
 	id int not null primary key,
 	funcionario_codigo varchar(20),
